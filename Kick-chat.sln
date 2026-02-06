@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kick-chat.Infrastructure", "Kick-chat.Infrastructure\Kick-chat.Infrastructure.csproj", "{DE712F04-A09F-42E8-BC26-CD7442BC8A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kick-chat.Core", "Kick-chat.Core\Kick-chat.Core.csproj", "{9B7845FF-7604-4463-8807-28D1FDEEA8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kick-chat.Desktop", "Kick-chat.Desktop\Kick-chat.Desktop.csproj", "{2E1BB739-9F0B-4B9F-B24A-9BB4840B4EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE712F04-A09F-42E8-BC26-CD7442BC8A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE712F04-A09F-42E8-BC26-CD7442BC8A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE712F04-A09F-42E8-BC26-CD7442BC8A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE712F04-A09F-42E8-BC26-CD7442BC8A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7845FF-7604-4463-8807-28D1FDEEA8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7845FF-7604-4463-8807-28D1FDEEA8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7845FF-7604-4463-8807-28D1FDEEA8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7845FF-7604-4463-8807-28D1FDEEA8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1BB739-9F0B-4B9F-B24A-9BB4840B4EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1BB739-9F0B-4B9F-B24A-9BB4840B4EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1BB739-9F0B-4B9F-B24A-9BB4840B4EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1BB739-9F0B-4B9F-B24A-9BB4840B4EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
